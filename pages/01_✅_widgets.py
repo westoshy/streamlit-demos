@@ -1,6 +1,6 @@
 import streamlit as st
 import time
-
+from datetime import datetime
 
 def mainview():
     st.markdown("# widgets demo")
@@ -201,8 +201,8 @@ def mainview():
     #
     st.markdown("## 日付入力")
     d = st.date_input(
-     "When's your birthday",
-     datetime.date(2019, 7, 6))
+        "When's your birthday",
+        datetime.date(2019, 7, 6))
     st.write('Your birthday is:', d)
 
     # -------------------------------------------------------
