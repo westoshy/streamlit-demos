@@ -1,4 +1,3 @@
-from idna import check_label
 import streamlit as st
 
 #
