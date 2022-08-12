@@ -2,4 +2,5 @@ plotly
 streamlit_authenticator
 streamlit-cropper
 matplotlib
+scipy
 graphviz
