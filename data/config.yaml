@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    test_user:
+      email: t.nishimura020830@gmail.com
+      name: test user
+      password: $2b$12$cCgWF7fzPAaSzZKiMQ.a3OY.UM3FTMB0ij74i0EnCASlpAO8rY0vG
+preauthorized:
+  emails:
+  - melsby@gmail.com
