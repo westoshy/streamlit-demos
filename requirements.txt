@@ -1,3 +1,2 @@
 streamlit-authenticator
 streamlit-cropper
-graphviz
